@@ -1,4 +1,4 @@
-var playlist = {aristName: songTitle}
+var playlist = {aristName: `songTitle`}
 
 
 
