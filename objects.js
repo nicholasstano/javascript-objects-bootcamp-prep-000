@@ -1,4 +1,27 @@
 var playlist = {aristName: `songTitle`}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 var playlist = {artistName: 'songTitle'}
 
