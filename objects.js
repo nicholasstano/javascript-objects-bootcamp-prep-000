@@ -1,3 +1,11 @@
+var playlist = artistname[songTitle]
+
+
+
+
+
+
+
 
 
 
