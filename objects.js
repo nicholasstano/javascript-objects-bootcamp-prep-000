@@ -1,38 +1,11 @@
 var playlist = {aristName: `songTitle`}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 var playlist = {artistName: 'songTitle'}
 
 /*function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
   return playlist
-}*/
+}
 //playlist starts at = [] and then becomes [artistName: SongTitle] and returns the playlist (destructive)
 function updatePlaylist(playlist, artistName, songTitle) {
   return Object.assign({}, playlist, {[artistName]: songTitle})
