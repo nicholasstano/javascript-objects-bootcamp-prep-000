@@ -1,3 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 var playlist = {artistName: 'songTitle'}
 
 /*function updatePlaylist(playlist, artistName, songTitle) {
@@ -13,6 +35,7 @@ function removeFromPlaylist(playlist, artistName) {
   delete playlist[artistName]
   return playlist
 }
+*/
 //removes the artistName from the playlist and returns the playlist without that artist.  (**Try to Console this)
 
 
